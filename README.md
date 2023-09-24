@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nariman-Z
+- 🎓 I’m a junior Electronic Engineer
+- 👀 I’m interested in IoT devices
+- 🌱 I’m currently working on my skils
