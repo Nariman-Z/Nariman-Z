@@ -17,7 +17,6 @@
   - 🛰️ Interested in **IoT devices**
   - 🧑🏻‍💻 **Microcontrollers** Programmer
   - 💀 Mostly working on **private repositories**
-  - 👾 A **student** working his way around things
   <!--Intro end-->
   
   <h2> Skills </h2>
