@@ -16,7 +16,7 @@
   - 🔍 **Hardware** Enthusiast and Researcher
   - 🛰️ Passionate about **IoT devices**
   - 🧑🏻‍💻 Experienced **Microcontroller** Programmer
-  - 🔒 Mostly working on **private repositories**
+  - 🔒 Mostly working on **Private Repositories**
   <!--Intro end-->
   
   <h2> Skills </h2>
@@ -72,5 +72,5 @@ See also: [My Website](https://nariman-z.pages.dev/)
 _Last Edited on: April 26, 2025_
 
 <!-- Profile Visit Counter -->
-![Profile Views](https://profile-counter.glitch.me/Nariman-Z/count.svg)
+<!-- ![Profile Views](https://profile-counter.glitch.me/Nariman-Z/count.svg) -->
 
