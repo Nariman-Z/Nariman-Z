@@ -11,12 +11,12 @@
   <!--Intro start-->
   <h2> About </h2>
   
-  - 📚 **Learning** and improving my skills
+  - 📚 Constantly **learning** and upgrading my skills
   - 🎓 Junior **Electronic Engineer**
-  - 🔍 **Hardware** Researcher
-  - 🛰️ Interested in **IoT devices**
-  - 🧑🏻‍💻 **Microcontrollers** Programmer
-  - 💀 Mostly working on **private repositories**
+  - 🔍 **Hardware** Enthusiast and Researcher
+  - 🛰️ Passionate about **IoT devices**
+  - 🧑🏻‍💻 Experienced **Microcontroller** Programmer
+  - 🔒 Mostly working on **private repositories**
   <!--Intro end-->
   
   <h2> Skills </h2>
@@ -51,7 +51,7 @@
     <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt = "Adafruit" />
     <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
     <img src = "https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt = "Espressif" />
-    <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white alt = "RaspberryPi" />
+    <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt = "RaspberryPi" />
     
   - <h4> designing tools </h4>
     <img src = "https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" alt = "Altium" />
@@ -63,16 +63,14 @@
 </div>
 
 <!--Footer-->
-### Made with ♥️ by: [Nariman_Z](https://github.com/Nariman-Z) ###
-See also: [My Website](https://nariman-z.github.io/)
+### Made with ❤️ by: [Nariman_Z](https://github.com/Nariman-Z) ###
+See also: [My Website](https://nariman-z.pages.dev/)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
-  <p> Last Edited on: January 19, 2025 </p>
-  <!--profile visit count-->
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Nariman-Z&label=Total%20Profile%20Views&color=6E9EAB&icon=8&pretty=true" />
-  </a>
-</div>
+_Last Edited on: April 26, 2025_
+
+<!-- Profile Visit Counter -->
+![Profile Views](https://profile-counter.glitch.me/Nariman-Z/count.svg)
+
