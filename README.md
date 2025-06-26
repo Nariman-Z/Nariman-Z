@@ -61,7 +61,7 @@
   - <h4>Design & Engineering</h4>
     <img src = "https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" alt = "Altium" />
     <img src = "https://img.shields.io/badge/Proteus-2C2C54?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
-    <img src = "https://img.shields.io/badge/MATLAB-D95319?style=for-the-badge&logo=mathlab&logoColor=white" alt="MATLAB" />
+    <img src = "https://img.shields.io/badge/MATLAB-D95319?style=for-the-badge&logo=matrix&logoColor=white" alt="MATLAB" />
     
     </br></br>
 
