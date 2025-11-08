@@ -53,6 +53,7 @@
     <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt = "Adafruit" />
     <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
     <img src = "https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt = "Espressif" />
+    <img src = "https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt = "STMicroelectronics" />
     <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt = "RaspberryPi" />
     <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
     <img src = "https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt = "Node-RED" />
@@ -74,7 +75,7 @@ See also: [My Portfolio](https://nariman-z.pages.dev/)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-_Last Edited on: June 27, 2025_
+_Last Edited on: November 8, 2025_
 
 <!-- Profile Visit Counter -->
 <!-- ![Profile Views](https://profile-counter.glitch.me/Nariman-Z/count.svg) -->
