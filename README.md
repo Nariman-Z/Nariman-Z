@@ -11,22 +11,22 @@
   <!--Intro start-->
   <h2>About</h2>
   
-  - 📚 Constantly **learning** and upgrading my skills
-  - 🎓 Junior **Electronic Engineer**
-  - 🔍 **Hardware** Enthusiast and Researcher
-  - 🛰️ Passionate about **IoT devices**
-  - 🧑🏻‍💻 Experienced **Microcontroller** Programmer
-  - 🔒 Mostly working on **Private Repositories**
+  - ⚡ **Electrical Engineering Student** | **IoT & Embedded Systems Developer**
+  - 🔬 Building from **silicon to cloud** — mastering every layer of the IoT stack
+  - 🧩 Skilled in **Embedded Systems, Firmware, and IoT Integration**
+  - 🎯 Passionate about **Smart Devices**, **Automation**, and **Prototyping**
+  - 🧑🏻‍💻 Experienced with **ARM / AVR / ESP32**, and **IoT Communication Protocols**
+  - 🛠️ Enthusiastic about **Hardware Design** and **SMD Prototyping**
+  - 🔒 Currently focusing on **private R&D projects**
   <!--Intro end-->
   
   <h2>Skills</h2>
 
   <!-- Currently Learning -->
   - <h4>Currently Learning</h4>
+    <img src = "https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=E65100" alt = "Firebase" />
     <img src = "https://img.shields.io/badge/FreeRTOS-2C3E50?style=for-the-badge&logo=htmx&logoColor=5CB85C" alt = "FreeRTOS" />
     <img src = "https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt = "Docker" />
-    <img src = "https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=E65100" alt = "Firebase" />
-    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
   <!-- Programming Languages -->
   - <h4>Programming Languages</h4>
@@ -42,30 +42,58 @@
   
   <!-- Development Environments -->
   - <h4>Development Environments</h4>
-    <img src = "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white" alt = "VSCode" />
-    <img src = "https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt = "AndroidStudio" />
+    <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
     <img src = "https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt = "ArduinoIDE" />
     <img src = "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt = "Colab" />
     <img src = "https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=21D789" alt = "PyCharm" />
-  
-  <!-- Embedded & IoT -->
-  - <h4>Embedded & IoT</h4>
-    <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt = "Adafruit" />
-    <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
+    <img src = "https://img.shields.io/badge/Android_Studio-2A9D6F?style=for-the-badge&logo=android&logoColor=white" alt = "AndroidStudio" />
+
+  <!-- Embedded Systems & IoT Hardware -->
+  - <h4>Embedded Systems & IoT Hardware</h4>
     <img src = "https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt = "Espressif" />
     <img src = "https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt = "STMicroelectronics" />
+    <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
     <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt = "RaspberryPi" />
+    <img src = "https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt = "Adafruit" />
+
+  <!-- IoT Integration Tools -->
+  - <h4>IoT Integration Tools</h4>
     <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
     <img src = "https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" alt = "Node-RED" />
-    
+    <!-- <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=E65100" alt="Firebase" /> -->
+
   <!-- Design & Engineering -->
   - <h4>Design & Engineering</h4>
     <img src = "https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" alt = "Altium" />
     <img src = "https://img.shields.io/badge/Proteus-2C2C54?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus" />
     <img src = "https://img.shields.io/badge/MATLAB-D95319?style=for-the-badge&logo=matrix&logoColor=white" alt="MATLAB" />
-    
-    </br></br>
+ 
+  <!-- Other Tools -->
+  - <h4>Other Tools</h4>
+    <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+    <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
+<h2>Experience</h2>
+
+  - 🔥 **Hardware Developer at Sahab (Sanat Hefaz Electronic Borna)**  *(Jul 2025 – Present)*  
+    Designing and programming **fire safety HMI systems** using **DWIN intelligent displays** integrated with **STM32**.  
+    - Engineered HMI touch screens for intuitive fire panel control  
+    - Developed STM32 firmware for sensor data, alarms, and secure communication  
+    - Integrated real-time feedback between detection hardware and interface  
+    - Collaborated with R&D to improve reliability and product safety  
+
+  - 🧠 **Hardware Developer at IoTiran** *(Jul 2023 – Sep 2023)*  
+    Designed and tested IoT hardware using **ESP32/ESP8266** microcontrollers.  
+    Contributed to the **IoTiran Bootcamp (1402)** as a **coach & mentor**.
+
+  - 🚀 **Personal Projects (Self-employed)** *(Oct 2023 – Present)*  
+    Developed 7+ embedded and IoT products, including:  
+    - 🌱 *FloraLink:* Smart irrigation with adaptive algorithms  
+    - 🔌 *Dimmo:* TRIAC-based AC power controller  
+    - Additional projects available on my portfolio
+
+       </br></br>
 </div>
 
 <!--Footer-->
