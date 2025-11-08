@@ -86,8 +86,8 @@
     - Collaborated with R&D to improve reliability and product safety  
 
   - 🧠 **Hardware Developer at IoTiran** *(Jul 2023 – Sep 2023)*  
-    Designed and tested IoT hardware using **ESP32/ESP8266** microcontrollers.  
-    Contributed to the **IoTiran Bootcamp (1402)** as a **coach & mentor**.
+    - Designed and tested IoT hardware using **ESP32/ESP8266** microcontrollers.  
+    - Contributed to the **IoTiran Bootcamp (1402)** as a **coach & mentor**.
 
   - 🚀 **Personal Projects (Self-employed)** *(Oct 2023 – Present)*  
     Developed 7+ embedded and IoT products, including:  
